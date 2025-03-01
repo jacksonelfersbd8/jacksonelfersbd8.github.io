@@ -6,7 +6,7 @@ Welcome to the Albahl series! Below are all the episodes available for download 
 
 ## Albahl Episode 1
 
-![Albahl Episode 1](path/to/image1.jpg)  
+![Albahl Episode 1](assets/bd8.slider.01.gif)  
 
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
@@ -17,7 +17,7 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 
 ## Albahl Episode 2
 
-![Albahl Episode 2](path/to/image2.jpg)  
+![Albahl Episode 2](assets/bd8.slider.01.gif)  
 
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
@@ -28,7 +28,7 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 
 ## Albahl Episode 3
 
-![Albahl Episode 3](path/to/image3.jpg)  
+![Albahl Episode 3](assets/bd8.slider.01.gif)  
 
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
