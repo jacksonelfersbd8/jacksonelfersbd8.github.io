@@ -4,38 +4,25 @@ Welcome to the Albahl series! Below are all the episodes available for download 
 
 ---
 
-## Albahl Episode 1
-
-![Albahl Episode 1](assets/bd8.slider.01.gif)  
-
-_Available for Windows, Linux, Android, and now playable in your browser!_  
-
-### 🎮 [Install and Play](https://link-to-install-play-episode1)  
-### 🎶 [Watch and Listen](https://link-to-watch-promo-trailer-episode1)
-
----
-
 ## Albahl Episode 2
 
-![Albahl Episode 2](assets/bd8.slider.01.gif)  
+![Albahl Episode 2](assets/bd8.ab2.cover.01.png)  
 
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
-### 🎮 [Install and Play](https://link-to-install-play-episode2)  
-### 🎶 [Watch and Listen](https://link-to-watch-promo-trailer-episode2)
+### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab2)  
+### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=AcQz_m9a0BQ)
 
 ---
 
-## Albahl Episode 3
+## Albahl Episode 1
 
-![Albahl Episode 3](assets/bd8.slider.01.gif)  
+![Albahl Episode 1](assets/bd8.ab1.cover.01.png)  
 
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
-### 🎮 [Install and Play](https://link-to-install-play-episode3)  
-### 🎶 [Watch and Listen](https://link-to-watch-promo-trailer-episode3)
+### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab1)  
+### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=AuNPYE-jfrI)
 
 ---
-
-_Continue for further episodes..._
 
