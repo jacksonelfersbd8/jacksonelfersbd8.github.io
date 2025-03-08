@@ -1,6 +1,16 @@
 # 📥 Albahl Series
 
 Welcome to the Albahl series! Below are all the episodes available for download and play. Each episode has the option to install and play on your device or watch and listen online. Enjoy the journey!
+---
+
+## Albahl Episode 3
+
+![Albahl Episode 3](assets/bd8.ab3.cover.01.png)  
+
+_Available for Windows, Linux, Android, and now playable in your browser!_  
+
+### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab3)  
+### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=mofyCt3IP5Y)
 
 ---
 
