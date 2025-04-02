@@ -22,7 +22,6 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab3)  
-### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=mofyCt3IP5Y)
 
 ---
 
@@ -33,7 +32,6 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab2)  
-### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=AR7CT0rJB_c)
 
 ---
 
@@ -44,7 +42,6 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ### 🎮 [Install and Play](https://github.com/jacksonelfersbd8/ab1)  
-### 🎶 [Watch and Listen](https://www.youtube.com/watch?v=QJbjhViixj8)
 
 ---
 
